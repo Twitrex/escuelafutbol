@@ -1,0 +1,10 @@
+C:\Users\boade\source\repos\EscuelaFutbol\EscuelaFutbol\bin\Debug\EscuelaFutbol.exe.config
+C:\Users\boade\source\repos\EscuelaFutbol\EscuelaFutbol\bin\Debug\EscuelaFutbol.exe
+C:\Users\boade\source\repos\EscuelaFutbol\EscuelaFutbol\bin\Debug\EscuelaFutbol.pdb
+C:\Users\boade\source\repos\EscuelaFutbol\EscuelaFutbol\obj\Debug\EscuelaFutbol.csproj.AssemblyReference.cache
+C:\Users\boade\source\repos\EscuelaFutbol\EscuelaFutbol\obj\Debug\EscuelaFutbol.Form1.resources
+C:\Users\boade\source\repos\EscuelaFutbol\EscuelaFutbol\obj\Debug\EscuelaFutbol.Properties.Resources.resources
+C:\Users\boade\source\repos\EscuelaFutbol\EscuelaFutbol\obj\Debug\EscuelaFutbol.csproj.GenerateResource.cache
+C:\Users\boade\source\repos\EscuelaFutbol\EscuelaFutbol\obj\Debug\EscuelaFutbol.csproj.CoreCompileInputs.cache
+C:\Users\boade\source\repos\EscuelaFutbol\EscuelaFutbol\obj\Debug\EscuelaFutbol.exe
+C:\Users\boade\source\repos\EscuelaFutbol\EscuelaFutbol\obj\Debug\EscuelaFutbol.pdb

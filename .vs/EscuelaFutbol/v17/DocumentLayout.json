@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2D9B28-D756-4BC4-B8F9-6DBFC01BED6E}|EscuelaFutbol\\EscuelaFutbol.csproj|C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\escuelafutbol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C2D9B28-D756-4BC4-B8F9-6DBFC01BED6E}|EscuelaFutbol\\EscuelaFutbol.csproj|solutionrelative:escuelafutbol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2D9B28-D756-4BC4-B8F9-6DBFC01BED6E}|EscuelaFutbol\\EscuelaFutbol.csproj|c:\\users\\boade\\source\\repos\\escuelafutbol\\escuelafutbol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2D9B28-D756-4BC4-B8F9-6DBFC01BED6E}|EscuelaFutbol\\EscuelaFutbol.csproj|solutionrelative:escuelafutbol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2D9B28-D756-4BC4-B8F9-6DBFC01BED6E}|EscuelaFutbol\\EscuelaFutbol.csproj|C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\escuelafutbol\\alumnodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2D9B28-D756-4BC4-B8F9-6DBFC01BED6E}|EscuelaFutbol\\EscuelaFutbol.csproj|solutionrelative:escuelafutbol\\alumnodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2D9B28-D756-4BC4-B8F9-6DBFC01BED6E}|EscuelaFutbol\\EscuelaFutbol.csproj|c:\\users\\boade\\source\\repos\\escuelafutbol\\escuelafutbol\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2D9B28-D756-4BC4-B8F9-6DBFC01BED6E}|EscuelaFutbol\\EscuelaFutbol.csproj|solutionrelative:escuelafutbol\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2D9B28-D756-4BC4-B8F9-6DBFC01BED6E}|EscuelaFutbol\\EscuelaFutbol.csproj|c:\\users\\boade\\source\\repos\\escuelafutbol\\escuelafutbol\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2D9B28-D756-4BC4-B8F9-6DBFC01BED6E}|EscuelaFutbol\\EscuelaFutbol.csproj|solutionrelative:escuelafutbol\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2D9B28-D756-4BC4-B8F9-6DBFC01BED6E}|EscuelaFutbol\\EscuelaFutbol.csproj|C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\escuelafutbol\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2D9B28-D756-4BC4-B8F9-6DBFC01BED6E}|EscuelaFutbol\\EscuelaFutbol.csproj|solutionrelative:escuelafutbol\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\EscuelaFutbol\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "EscuelaFutbol\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\EscuelaFutbol\\Form1.Designer.cs",
+              "RelativeToolTip": "EscuelaFutbol\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T14:36:36.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\EscuelaFutbol\\Form1.cs",
+              "RelativeDocumentMoniker": "EscuelaFutbol\\Form1.cs",
+              "ToolTip": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\EscuelaFutbol\\Form1.cs",
+              "RelativeToolTip": "EscuelaFutbol\\Form1.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAswOQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T22:17:43.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlumnoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\EscuelaFutbol\\AlumnoDAL.cs",
+              "RelativeDocumentMoniker": "EscuelaFutbol\\AlumnoDAL.cs",
+              "ToolTip": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\EscuelaFutbol\\AlumnoDAL.cs",
+              "RelativeToolTip": "EscuelaFutbol\\AlumnoDAL.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAiwLYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:51:16.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\EscuelaFutbol\\Alumnos.cs",
+              "RelativeDocumentMoniker": "EscuelaFutbol\\Alumnos.cs",
+              "ToolTip": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\EscuelaFutbol\\Alumnos.cs",
+              "RelativeToolTip": "EscuelaFutbol\\Alumnos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:36:58.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\EscuelaFutbol\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "EscuelaFutbol\\ConexionBD.cs",
+              "ToolTip": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\EscuelaFutbol\\ConexionBD.cs",
+              "RelativeToolTip": "EscuelaFutbol\\ConexionBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:23:54.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\EscuelaFutbol\\Form1.cs",
+              "RelativeDocumentMoniker": "EscuelaFutbol\\Form1.cs",
+              "ToolTip": "C:\\Users\\boade\\source\\repos\\EscuelaFutbol\\EscuelaFutbol\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EscuelaFutbol\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T01:54:19.997Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
